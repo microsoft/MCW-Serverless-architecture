@@ -224,7 +224,7 @@ Timeframe: 15 minutes
 | Choose between Azure services that deliver messages |                    <https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services>                     |
 | Monitor Azure Functions using Application Insights  |                     <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>                     |
 | Introduction to Azure Event Grid                    |                             <https://docs.microsoft.com/en-us/azure/event-grid/overview>                              |
-| Call Azure Functions from logic apps                | <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-functions%23call-azure-functions-from-logic-apps> |
+| Call Azure Functions from logic apps                | <https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-azure-functions> |
 | Azure Cosmos DB + Azure Functions                   |                   <https://docs.microsoft.com/en-us/azure/cosmos-db/serverless-computing-database>                    |
 | Continuous deployment of Azure Functions            |               <https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment>                |
 | Code and test Azure Functions locally               |                     <https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local>                      |
