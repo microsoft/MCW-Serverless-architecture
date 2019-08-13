@@ -148,11 +148,11 @@ If you do not have a machine with Visual Studio Community 2019 (or greater) and 
 
 1. From your LabVM, download the starter files by downloading a .zip copy of the Cosmos DB real-time advanced analytics GitHub repo.
 
-2. In a web browser, navigate to the [MCW Serverless architecture repo](https://github.com/Microsoft/MCW-Serverless-architecture).
+2. In a web browser, navigate to the [MCW Serverless architecture repo](https://github.com/kloudynetklassrooms/MCW-Serverless-architecture).
 
 3. On the repo page, select **Clone or download**, then select **Download ZIP**.
 
-   ![Download .zip containing the repository](images/Setup/github-download-repo.png)
+   ![Download .zip containing the repository](images/Setup/github-download-repo-kloudynetklassrooms.png)
 
 4. Unzip the contents to the folder **C:\\ServerlessMCW\\**.
 
