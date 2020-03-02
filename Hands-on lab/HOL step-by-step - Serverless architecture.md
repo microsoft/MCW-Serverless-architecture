@@ -687,7 +687,7 @@ In this task, you will publish the Function App from the starter project in Visu
 
     f. Select only the **Blob Created** from the event types dropdown list.
 
-    g. Leave Web Hook as the Endpoint Type.
+    g. Leave the default Azure Function as the Endpoint Type, with endpoint **ProcessImage**.
 
 13. Leave the remaining fields at their default values and select **Create**.
 
@@ -785,7 +785,7 @@ In this task, you will add an Event Grid subscription to the SavePlateData funct
 
     g. Enter `savePlateData` for the new event type value. This will ensure this function is only triggered by this Event Grid type.
 
-    h. Leave Web Hook as the Endpoint Type.
+    h. Leave the default Azure Function as the Endpoint Type, with endpoint **SavePlateData**.
 
 3. Leave the remaining fields at their default values and select **Create**.
 
@@ -891,7 +891,7 @@ In this task, you will add an Event Grid subscription to the QueuePlateForManual
 
     g. Enter `queuePlateForManualCheckup` for the new event type value. This will ensure this function is only triggered by this Event Grid type.
 
-    h. Leave Web Hook as the Endpoint Type.
+    h. Leave the default Azure Function as the Endpoint Type, with endpoint **QueuePlateForManualCheckup**..
 
 3. Leave the remaining fields at their default values and select **Create**.
 
