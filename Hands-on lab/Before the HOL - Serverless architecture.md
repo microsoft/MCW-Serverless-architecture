@@ -113,7 +113,7 @@ In this task, you run an Azure Resource Manager (ARM) template to create the han
 3. In the PowerShell terminal window that opens in the Azure portal, enter the following command at the prompt:
 
    ```powershell
-   az ad signed-in-user show --query objectId -o tsv
+   az ad signed-in-user show --query id -o tsv
    ```
 
    ![At the cloud shell prompt, the az ad signed-in-user show command is entered and highlighted.](media/azure-cli-az-ad-signed-in-user-show.png "Azure CLI")
