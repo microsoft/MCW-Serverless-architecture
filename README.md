@@ -1,9 +1,6 @@
-# Retirement notice
-This workshop will be retired effective June 30, 2022. At that time the repository will be archived, and the materials will not be maintained.
-
-For questions or concerns regarding the MCW library, email us at [AskMCW](mailto:AskMCW@microsoft.com). Please remember to include the title of the workshop in your email.
-
 # Serverless architecture
+
+## This workshop is archived and no longer being maintained.  Content is read-only.
 
 Contoso is rapidly expanding its toll booth management business to operate in a much larger area. As this is not their primary business, which is online payment services, they are struggling with scaling up to meet the upcoming demand to extract license plate information from many new tollbooths, using photos of vehicles uploaded to cloud storage. Currently, they have a manual process where they send batches of images to a 3rd-party who manually transcodes the license plates to CSV files that they send back to Contoso to upload to their online processing system.
 
